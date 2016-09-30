@@ -1,4 +1,5 @@
 see: [Global Map download page](https://www.iscgm.org/gmd/)
+
 see: [Global Map Transfer Plan](https://speakerdeck.com/gsiinternational/twenty-year-journey-in-global-mapping?slide=20)
 
 # naming convention
