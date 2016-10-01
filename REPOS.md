@@ -137,23 +137,23 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmus is at [the national site](https://www.iscgm.org/gmd/download/usa.html)
 
 # South America
-- [x] gmar10  https://github.com/globalmaps/gmar10
-- [ ] gmbr10 (need split)
+- [x] gmar10 https://github.com/globalmaps/gmar10
+- [x] gmbr10 https://github.com/globalmaps/gmbr10
 - [ ] gmbr20r (bil only)
-- [x] gmcl10  https://github.com/globalmaps/gmcl10
-- [x] gmco10  https://github.com/globalmaps/gmco10
-- [x] gmuy10  https://github.com/globalmaps/gmuy10
-- [x] gmuy20  https://github.com/globalmaps/gmuy20
+- [x] gmcl10 https://github.com/globalmaps/gmcl10
+- [x] gmco10 https://github.com/globalmaps/gmco10
+- [x] gmuy10 https://github.com/globalmaps/gmuy10
+- [x] gmuy20 https://github.com/globalmaps/gmuy20
 
 # Oceania
 - [x] gmau is at [the national site](https://www.ga.gov.au/products/servlet/controller?event=GEOCAT_DETAILS&catno=48006)
-- [ ] gmnz10
-- [ ] gmnz20
-- [ ] gmpg10
-- [ ] gmpg20
-- [ ] gmws10
+- [x] gmnz10 https://github.com/globalmaps/gmnz10
+- [x] gmnz20 https://github.com/globalmaps/gmnz20
+- [x] gmpg10 https://github.com/globalmaps/gmpg10 split
+- [x] gmpg20 https://github.com/globalmaps/gmpg20
+- [x] gmws10 https://github.com/globalmaps/gmws10
 
 # Antarctica
-- [ ] gmaq10
+- [x] gmaq10 https://github.com/globalmaps/gmaq10
 
 see: [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
