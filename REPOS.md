@@ -154,6 +154,6 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [ ] gmws10
 
 # Antarctica
-- [ ] gm10aq
+- [ ] gmaq10
 
 see: [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
