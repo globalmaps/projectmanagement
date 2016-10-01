@@ -138,7 +138,7 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 
 # South America
 - [x] gmar10 https://github.com/globalmaps/gmar10
-- [x] gmbr10 https://github.com/globalmaps/gmbr10
+- [x] gmbr10 https://github.com/globalmaps/gmbr10 split
 - [ ] gmbr20r (bil only)
 - [x] gmcl10 https://github.com/globalmaps/gmcl10
 - [x] gmco10 https://github.com/globalmaps/gmco10
@@ -154,6 +154,6 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmws10 https://github.com/globalmaps/gmws10
 
 # Antarctica
-- [x] gmaq10 https://github.com/globalmaps/gmaq10
+- [x] gmaq10 https://github.com/globalmaps/gmaq10 spec
 
 see: [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
