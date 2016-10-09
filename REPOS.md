@@ -67,7 +67,7 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmir11 https://github.com/globalmaps/gmir11 (raster only)
 - [x] gmir20 https://github.com/globalmaps/gmir20
 - [x] gmjp at [the national site](http://www.gsi.go.jp/kankyochiri/gm_japan_e.html)
-- [ ] gmjo10
+- [x] gmjo10 https://github.com/globalmaps/gmjo10
 - [ ] gmjo20
 - [ ] gmkz10
 - [x] gmkr at [the national site](http://www.ngii.go.kr/jsp/globalmap.jsp)
