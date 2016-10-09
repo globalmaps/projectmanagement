@@ -68,15 +68,15 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmir20 https://github.com/globalmaps/gmir20
 - [x] gmjp at [the national site](http://www.gsi.go.jp/kankyochiri/gm_japan_e.html)
 - [x] gmjo10 https://github.com/globalmaps/gmjo10
-- [ ] gmjo20
-- [ ] gmkz10
+- [x] gmjo20 https://github.com/globalmaps/gmjo20
+- [x] gmkz10 https://github.com/globalmaps/gmkz10
 - [x] gmkr at [the national site](http://www.ngii.go.kr/jsp/globalmap.jsp)
-- [ ] gmkg10
-- [ ] gmkg20
-- [ ] gmla10
-- [ ] gmla20
-- [ ] gmlb10
-- [ ] gmlb20
+- [x] gmkg10 https://github.com/globalmaps/gmkg10
+- [x] gmkg20 https://github.com/globalmaps/gmkg20
+- [x] gmla10 https://github.com/globalmaps/gmla10
+- [x] gmla20 https://github.com/globalmaps/gmla20
+- [x] gmlb10 https://github.com/globalmaps/gmlb10
+- [x] gmlb20 https://github.com/globalmaps/gmlb20
 - [ ] gmmy10
 - [ ] gmmy20
 - [ ] gmmn10
