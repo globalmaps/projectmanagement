@@ -51,20 +51,21 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmaz10 https://github.com/globalmaps/gmaz10
 - [x] gmaz20 https://github.com/globalmaps/gmaz20
 - [x] gmbh10 https://github.com/globalmaps/gmbh10
-- [ ] gmbh20
-- [ ] gmbd10
-- [ ] gmbd11
-- [ ] gmbd20
+- [x] gmbh20 https://github.com/globalmaps/gmbh20
+- [x] gmbd10 https://github.com/globalmaps/gmbd10
+- [x] gmbd11 https://github.com/globalmaps/gmbd10
+- [x] gmbd20 https://github.com/globalmaps/gmbd20
 - [x] gmbt10 https://github.com/globalmaps/gmbt10
 - [x] gmbt20 https://github.com/globalmaps/gmbt20
-- [ ] gmbn10
-- [ ] gmbn20
-- [ ] gmhk10
-- [ ] gmin10
-- [ ] gmin20
-- [ ] gmid10
-- [ ] gmir10
-- [ ] gmir20
+- [x] gmbn10 https://github.com/globalmaps/gmbn10
+- [x] gmbn20 https://github.com/globalmaps/gmbn20
+- [x] gmhk10 https://github.com/globalmaps/gmhk10
+- [x] gmin10 https://github.com/globalmaps/gmin10
+- [x] gmin20 https://github.com/globalmaps/gmin20
+- [x] gmid10 https://github.com/globalmaps/gmid10
+- [x] gmir10 https://github.com/globalmaps/gmir10
+- [x] gmir11 https://github.com/globalmaps/gmir11 (raster only)
+- [x] gmir20 https://github.com/globalmaps/gmir20
 - [x] gmjp at [the national site](http://www.gsi.go.jp/kankyochiri/gm_japan_e.html)
 - [ ] gmjo10
 - [ ] gmjo20
