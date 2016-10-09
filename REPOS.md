@@ -47,10 +47,10 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmtristandacunha10 https://github.com/globalmaps/gmtristandacunha10
 
 # Asia
-- [ ] gmaf20
-- [ ] gmaz10
-- [ ] gmaz20
-- [ ] gmbh10
+- [x] gmaf20 https://github.com/globalmaps/gmaf20
+- [x] gmaz10 https://github.com/globalmaps/gmaz10
+- [x] gmaz20 https://github.com/globalmaps/gmaz20
+- [x] gmbh10 https://github.com/globalmaps/gmbh10
 - [ ] gmbh20
 - [ ] gmbd10
 - [ ] gmbd11
@@ -94,7 +94,7 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [ ] gmsg10
 - [ ] gmlk10
 - [ ] gmlk20
-- [ ] gmsy10
+- [x] gmsy10 https://github.com/globalmaps/gmsy10
 - [ ] gmth10
 - [ ] gmvn10
 - [ ] gmvn20
