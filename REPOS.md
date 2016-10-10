@@ -86,10 +86,10 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmnp20 https://github.com/globalmaps/gmnp20
 - [x] gmom10 https://github.com/globalmaps/gmom10
 - [x] gmom20 https://github.com/globalmaps/gmom20 split
-- [ ] gmpk10
-- [ ] gmpk20
-- [ ] gmps10
-- [ ] gmph10
+- [x] gmpk10 https://github.com/globalmaps/gmpk10
+- [x] gmpk20 https://github.com/globalmaps/gmpk20
+- [x] gmps10 https://github.com/globalmaps/gmps10
+- [x] gmph10 https://github.com/globalmaps/gmph10
 - [ ] gmsa10
 - [ ] gmsa20
 - [ ] gmsg10
