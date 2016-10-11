@@ -90,11 +90,11 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmpk20 https://github.com/globalmaps/gmpk20
 - [x] gmps10 https://github.com/globalmaps/gmps10
 - [x] gmph10 https://github.com/globalmaps/gmph10
-- [ ] gmsa10
-- [ ] gmsa20
-- [ ] gmsg10
-- [ ] gmlk10
-- [ ] gmlk20
+- [x] gmsa10 https://github.com/globalmaps/gmsa10
+- [x] gmsa20 https://github.com/globalmaps/gmsa20
+- [x] gmsg10 https://github.com/globalmaps/gmsg10
+- [x] gmlk10 https://github.com/globalmaps/gmlk10
+- [x] gmlk20 https://github.com/globalmaps/gmlk20
 - [x] gmsy10 https://github.com/globalmaps/gmsy10
 - [ ] gmth10
 - [ ] gmvn10
@@ -128,7 +128,7 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmgt10 https://github.com/globalmaps/gmgt10
 - [x] gmhn10 https://github.com/globalmaps/gmhn10
 - [x] gmhn20 https://github.com/globalmaps/gmhn20
-- [ ] gmmx10 (email required)
+- [x] gmmx10 https://github.com/globalmaps/gmmx10
 - [x] gmni10 https://github.com/globalmaps/gmni10
 - [x] gmni20 https://github.com/globalmaps/gmni20
 - [x] gmpa10 https://github.com/globalmaps/gmpa10
