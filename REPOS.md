@@ -96,9 +96,9 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmlk10 https://github.com/globalmaps/gmlk10
 - [x] gmlk20 https://github.com/globalmaps/gmlk20
 - [x] gmsy10 https://github.com/globalmaps/gmsy10
-- [ ] gmth10
-- [ ] gmvn10
-- [ ] gmvn20
+- [x] gmth10 https://github.com/globalmaps/gmth10
+- [x] gmvn10 https://github.com/globalmaps/gmvn10
+- [x] gmvn20 https://github.com/globalmaps/gmvn20
 
 # Europe
 - [x] gmeu80 at [the eurogeographics site](http://www.eurogeographics.org/products-and-services/euroglobalmap)
