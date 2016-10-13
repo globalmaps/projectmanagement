@@ -64,7 +64,7 @@
 - [Global Map Kazakhstan 1.0](https://github.com/globalmaps/gmkz10)
 - [Global Map Korea](http://www.ngii.go.kr/jsp/globalmap.jsp)
 - [Global Map Kyrgyz 1.0](https://github.com/globalmaps/gmkg10)
-- [Global Map Kyrgyz 1.0](https://github.com/globalmaps/gmkg20)
+- [Global Map Kyrgyz 2.0](https://github.com/globalmaps/gmkg20)
 - [Global Map Laos 1.0](https://github.com/globalmaps/gmla10)
 - [Global Map Laos 2.0](https://github.com/globalmaps/gmla20)
 - [Global Map Lebanon 1.0](https://github.com/globalmaps/gmlb10)
