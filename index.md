@@ -2,7 +2,7 @@
 ## Africa
 - [Global Map Congo 1.0](https://github.com/globalmaps/gmcg10)
 - [Global Map Congo 2.0](https://github.com/globalmaps/gmcg20)
-- [Global Map the Democratic Republic of the Congo](https://github.com/globalmaps/gmcd10)
+- [Global Map the Democratic Republic of the Congo 1.0](https://github.com/globalmaps/gmcd10)
 - [Global Map Ethiopia 1.0](https://github.com/globalmaps/gmet10)
 - [Global Map Ethiopia 2.0](https://github.com/globalmaps/gmet20)
 - [Global Map Kenya 1.0](https://github.com/globalmaps/gmke10)
@@ -34,7 +34,7 @@
 - [Global Map Niger 1.0](https://github.com/globalmaps/gmne10)
 - [Global Map Niger 2.0](https://github.com/globalmaps/gmne20)
 - [Global Map Senegal 1.0](https://github.com/globalmaps/gmsn10)
-- [Global Map Senegal 1.0](https://github.com/globalmaps/gmsn20)
+- [Global Map Senegal 2.0](https://github.com/globalmaps/gmsn20)
 - [Global Map Togo 2.0](https://github.com/globalmaps/gmtg20)
 - [Global Map Tristan da Cunha 1.0](https://github.com/globalmaps/gmtristandacunha10)
 
@@ -68,7 +68,7 @@
 - [Global Map Laos 1.0](https://github.com/globalmaps/gmla10)
 - [Global Map Laos 2.0](https://github.com/globalmaps/gmla20)
 - [Global Map Lebanon 1.0](https://github.com/globalmaps/gmlb10)
-- [Global Map Lebanon 1.0](https://github.com/globalmaps/gmlb20)
+- [Global Map Lebanon 2.0](https://github.com/globalmaps/gmlb20)
 - [Global May Malaysia 1.0](https://github.com/globalmaps/gmmy10)
 - [Global Map Malaysia 2.0](https://github.com/globalmaps/gmmy20)
 - [Global Map Mongolia 1.0](https://github.com/globalmaps/gmmn10)
