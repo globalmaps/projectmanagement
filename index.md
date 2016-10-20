@@ -63,8 +63,8 @@
 - [Global Map Jordan 2.0](https://github.com/globalmaps/gmjo20)
 - [Global Map Kazakhstan 1.0](https://github.com/globalmaps/gmkz10)
 - [Global Map Korea](http://www.ngii.go.kr/jsp/globalmap.jsp)
-- [Global Map Kyrgyz 1.0](https://github.com/globalmaps/gmkg10)
-- [Global Map Kyrgyz 2.0](https://github.com/globalmaps/gmkg20)
+- [Global Map Kyrgyzstan 1.0](https://github.com/globalmaps/gmkg10)
+- [Global Map Kyrgyzstan 2.0](https://github.com/globalmaps/gmkg20)
 - [Global Map Laos 1.0](https://github.com/globalmaps/gmla10)
 - [Global Map Laos 2.0](https://github.com/globalmaps/gmla20)
 - [Global Map Lebanon 1.0](https://github.com/globalmaps/gmlb10)
@@ -89,8 +89,8 @@
 - [Global Map Sri Lanka 2.0](https://github.com/globalmaps/gmlk20)
 - [Global Map Syria 1.0](https://github.com/globalmaps/gmsy10)
 - [Global Map Thailand 1.0](https://github.com/globalmaps/gmth10)
-- [Global Map Vietnam 1.0](https://github.com/globalmaps/gmvn10)
-- [Global Map Vietnam 2.0](https://github.com/globalmaps/gmvn20)
+- [Global Map Viet Nam 1.0](https://github.com/globalmaps/gmvn10)
+- [Global Map Viet Nam 2.0](https://github.com/globalmaps/gmvn20)
 
 ## Europe
 - [Global Map Europe](http://www.eurogeographics.org/products-and-services/euroglobalmap)
@@ -127,7 +127,7 @@
 - [Global Map Saint Lucia 1.0](https://github.com/globalmaps/gmlc10)
 - [Global Map Saint Vincent and the Grenadines 1.0](https://github.com/globalmaps/gmvc10)
 - [Global Map Saint Vincent and the Grenadines 2.0](https://github.com/globalmaps/gmvc20)
-- [Global Map United States of America](https://www.iscgm.org/gmd/download/usa.html)
+- [Global Map the United States of America](https://www.iscgm.org/gmd/download/usa.html)
 
 ## South America
 - [Global Map Argentina 1.0](https://github.com/globalmaps/gmar10)
