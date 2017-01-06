@@ -1,9 +1,10 @@
-# naming convention
+# National / regional versions of Global Map data
+## naming convention
 ```
 gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 ```
 
-# Africa
+## Africa
 - [x] gmcg10 https://github.com/globalmaps/gmcg10
 - [x] gmcg20 https://github.com/globalmaps/gmcg20
 - [x] gmcd10 https://github.com/globalmaps/gmcd10
@@ -42,7 +43,7 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmtg20 https://github.com/globalmaps/gmtg20
 - [x] gmtristandacunha10 https://github.com/globalmaps/gmtristandacunha10
 
-# Asia
+## Asia
 - [x] gmaf20 https://github.com/globalmaps/gmaf20
 - [x] gmaz10 https://github.com/globalmaps/gmaz10
 - [x] gmaz20 https://github.com/globalmaps/gmaz20
@@ -96,7 +97,7 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmvn10 https://github.com/globalmaps/gmvn10
 - [x] gmvn20 https://github.com/globalmaps/gmvn20
 
-# Europe
+## Europe
 - [x] gmeu80 at [the eurogeographics site](http://www.eurogeographics.org/products-and-services/euroglobalmap)
 - [x] gmal20 https://github.com/globalmaps/gmal20
 - [x] gmbg10 https://github.com/globalmaps/gmbg10
@@ -113,7 +114,7 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmmd10 https://github.com/globalmaps/gmmd10
 - [x] gmxk20 https://github.com/globalmaps/gmxk20
 
-# North America
+## North America
 - [x] gmbz10 https://github.com/globalmaps/gmbz10
 - [x] gmca is at [the national site](http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/28a7cfa1-b995-5a3c-b850-a6df2a6403b5)
 - [x] gmcu10 https://github.com/globalmaps/gmcu10
@@ -133,7 +134,7 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmvc20 https://github.com/globalmaps/gmvc20
 - [x] gmus is at [the national site](https://www.iscgm.org/gmd/download/usa.html)
 
-# South America
+## South America
 - [x] gmar10 https://github.com/globalmaps/gmar10
 - [x] gmbr10 https://github.com/globalmaps/gmbr10 split
 - [ ] gmbr20r (bil only)
@@ -142,7 +143,7 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmuy10 https://github.com/globalmaps/gmuy10
 - [x] gmuy20 https://github.com/globalmaps/gmuy20
 
-# Oceania
+## Oceania
 - [x] gmau is at [the national site](https://www.ga.gov.au/products/servlet/controller?event=GEOCAT_DETAILS&catno=48006)
 - [x] gmnz10 https://github.com/globalmaps/gmnz10
 - [x] gmnz20 https://github.com/globalmaps/gmnz20
@@ -150,9 +151,9 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 - [x] gmpg20 https://github.com/globalmaps/gmpg20
 - [x] gmws10 https://github.com/globalmaps/gmws10
 
-# Antarctica
+## Antarctica
 - [x] gmaq10 https://github.com/globalmaps/gmaq10 spec
 
-# See also
+## See also
 - [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 - [Global Map Transfer Plan](https://speakerdeck.com/gsiinternational/twenty-year-journey-in-global-mapping?slide=20)
