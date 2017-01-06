@@ -1,7 +1,3 @@
-see: [Global Map download page](https://www.iscgm.org/gmd/)
-
-see: [Global Map Transfer Plan](https://speakerdeck.com/gsiinternational/twenty-year-journey-in-global-mapping?slide=20)
-
 # naming convention
 ```
 gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
@@ -157,4 +153,6 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 # Antarctica
 - [x] gmaq10 https://github.com/globalmaps/gmaq10 spec
 
-see: [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+# See also
+- [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+- [Global Map Transfer Plan](https://speakerdeck.com/gsiinternational/twenty-year-journey-in-global-mapping?slide=20)
