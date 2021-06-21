@@ -99,7 +99,6 @@ gm#{iso_3166_1_alpha_2}#{version_without_decimal_point}#{bil ? 'bil' : ''}
 
 ## Europe
 - [x] gmeu80 at [the eurogeographics site](http://www.eurogeographics.org/products-and-services/euroglobalmap)
-- [x] gmal20 https://github.com/globalmaps/gmal20
 - [x] gmbg10 https://github.com/globalmaps/gmbg10
 - [ ] gmbg20 (bil only)
 - [x] gmge10 https://github.com/globalmaps/gmge10
